@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Brampton
+
+> Geotechnical engineering services in Brampton, Canada.
+
+## Services
+- [Anchors](https://brampton.geotechnicalengineering.co/anchors/)
+- [Atterberg Limits](https://brampton.geotechnicalengineering.co/atterberg-limits/)
+- [Cbr Road](https://brampton.geotechnicalengineering.co/cbr-road/)
+- [Cpt Test](https://brampton.geotechnicalengineering.co/cpt-test/)
+- [Deep Excavations](https://brampton.geotechnicalengineering.co/deep-excavations/)
+- [Excavation Monitoring](https://brampton.geotechnicalengineering.co/excavation-monitoring/)
+- [Excavations](https://brampton.geotechnicalengineering.co/excavations/)
+- [Flexible Pavement](https://brampton.geotechnicalengineering.co/flexible-pavement/)
+- [Footings](https://brampton.geotechnicalengineering.co/footings/)
+- [Foundations](https://brampton.geotechnicalengineering.co/foundations/)
+- [Grain Size](https://brampton.geotechnicalengineering.co/grain-size/)
+- [Ground Improvement](https://brampton.geotechnicalengineering.co/ground-improvement/)
+- [Grouting](https://brampton.geotechnicalengineering.co/grouting/)
+- [In Situ Permeability](https://brampton.geotechnicalengineering.co/in-situ-permeability/)
+- [Investigation](https://brampton.geotechnicalengineering.co/investigation/)
+- [Lab In Situ](https://brampton.geotechnicalengineering.co/lab-in-situ/)
+- [Laboratory](https://brampton.geotechnicalengineering.co/laboratory/)
+- [Liquefaction](https://brampton.geotechnicalengineering.co/liquefaction/)
+- [Masw](https://brampton.geotechnicalengineering.co/masw/)
+- [Mat Foundations](https://brampton.geotechnicalengineering.co/mat-foundations/)
+- [Piles](https://brampton.geotechnicalengineering.co/piles/)
+- [Proctor Tests](https://brampton.geotechnicalengineering.co/proctor-tests/)
+- [Resistivity](https://brampton.geotechnicalengineering.co/resistivity/)
+- [Retaining Walls](https://brampton.geotechnicalengineering.co/retaining-walls/)
+- [Rigid Pavement](https://brampton.geotechnicalengineering.co/rigid-pavement/)
+- [Road Geotechnics](https://brampton.geotechnicalengineering.co/road-geotechnics/)
+- [Sand Cone Density](https://brampton.geotechnicalengineering.co/sand-cone-density/)
+- [Seismic](https://brampton.geotechnicalengineering.co/seismic/)
+- [Seismic Isolation](https://brampton.geotechnicalengineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://brampton.geotechnicalengineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://brampton.geotechnicalengineering.co/seismic-refraction/)
+- [Slope Stability](https://brampton.geotechnicalengineering.co/slope-stability/)
+- [Slopes](https://brampton.geotechnicalengineering.co/slopes/)
+- [Soft Ground Tunnels](https://brampton.geotechnicalengineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://brampton.geotechnicalengineering.co/spt-drilling/)
+- [Stone Columns](https://brampton.geotechnicalengineering.co/stone-columns/)
+- [Test Pits](https://brampton.geotechnicalengineering.co/test-pits/)
+- [Triaxial](https://brampton.geotechnicalengineering.co/triaxial/)
+- [Vibrocompaction](https://brampton.geotechnicalengineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://brampton.geotechnicalengineering.co/
+
+## About
+This site provides geotechnical engineering services in Brampton, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
